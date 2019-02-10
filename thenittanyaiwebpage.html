@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Matching Utility </title>
+</head>
+<body bgcolor="#E6E6FA">
+<strong><u>Welcome the the Matching Utility Page!</u></strong>
+<p1><br>This web application is created by Penn State students who want to help students find clubs that may interest them during the school year. </p1>
+<br><p2><a href = "https://www.psu.edu/"><img src= "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Penn_State_Nittany_Lions_logo.svg/1200px-Penn_State_Nittany_Lions_logo.svg.png" alt="Penn State " style="width:200px;height:200px;"></a></p2>
+<p3><a href = "https://studentaffairs.psu.edu/hub/studentorgs/orgdirectory/search.aspx"><img src="https://studentaffairs.psu.edu/hub/studentorgs/orgdirectory/i/logo-psu-sa.svg" style="width:200px;height:200px;"></a></p3>
+
+<br>
+<p4>
+    <form action="logic.php" method="POST">
+
+        <div name="Personal Info Prompts">
+            <table>
+                <tr>
+                    <td>First Name:</td>
+                    <td><input type = "text" name="first" /></td>
+                </tr>
+                <tr>
+                    <td>Last Name:</td>
+                    <td><input type = "text" name="last" /></td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type = "text" name="email" /></td>
+                </tr>
+            </table>
+            <td>Check all that apply:</td>
+            <td>
+                <input type = "checkbox" value = 'On Campus' name = "oncampus" />On Campus</td>
+                <input type = "checkbox" value = 'Off Campus' name = "offcampus" />Off Campus</td>
+                <input type = "checkbox" value = 'Car' name = "Car" />Car</td>
+                <input type = "checkbox" value = 'No Car' name = "No Car" />No Car</td>
+            </td>
+        </div>
+
+        <br><br>
+
+        <div name="Interest Questions">
+            <p>How much are you interested in stem on a scale of 1 to 5?</p>
+            <select name="Q1">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+
+            <p>How much are you interested in sports on a scale of 1 to 5?</p>
+            <select name="Q2">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+
+            <p>On a scale from 1 to 5, how much do you enjoy video games?</p>
+            <select name="Q3">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+
+            <p>How many team sports have you played in the past four years?</p>
+            <select name="Q4">
+                <option value="0">none</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5 or more</option>
+            </select>
+        </div>
+
+
+        <br><br><input type="submit" value="Submit">
+        <td><input type = "reset" /></td>
+    </form>
+</p4>
+</body>
+</html>
+<!--- https://blog.learntoprogram.tv/creating-a-survey-form-in-html/ --->
+
+
+<!--- php user survey: https://www.developerdrive.com/2011/11/creating-a-php-user-survey-database-tables-and-class-file-constructor/ --->

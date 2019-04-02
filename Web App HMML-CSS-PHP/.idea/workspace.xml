@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b27e9f45-f6eb-4372-9a46-da696cc55137" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="631">
+              <caret line="419" column="138" lean-forward="true" selection-start-line="419" selection-start-column="48" selection-end-line="419" selection-end-column="138" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1201">
+              <caret line="181" selection-start-line="181" selection-end-line="181" />
+              <caret line="192" selection-start-line="192" selection-end-line="192" />
+              <caret line="203" selection-start-line="203" selection-end-line="203" />
+              <caret line="214" selection-start-line="214" selection-end-line="214" />
+              <caret line="225" selection-start-line="225" selection-end-line="225" />
+              <caret line="236" selection-start-line="236" selection-end-line="236" />
+              <caret line="247" selection-start-line="247" selection-end-line="247" />
+              <caret line="258" selection-start-line="258" selection-end-line="258" />
+              <caret line="269" selection-start-line="269" selection-end-line="269" />
+              <caret line="280" selection-start-line="280" selection-end-line="280" />
+              <caret line="291" selection-start-line="291" selection-end-line="291" />
+              <caret line="302" selection-start-line="302" selection-end-line="302" />
+              <caret line="313" selection-start-line="313" selection-end-line="313" />
+              <caret line="324" selection-start-line="324" selection-end-line="324" />
+              <caret line="335" selection-start-line="335" selection-end-line="335" />
+              <caret line="346" selection-start-line="346" selection-end-line="346" />
+              <caret line="357" selection-start-line="357" selection-end-line="357" />
+              <caret line="368" selection-start-line="368" selection-end-line="368" />
+              <caret line="379" selection-start-line="379" selection-end-line="379" />
+              <caret line="390" selection-start-line="390" selection-end-line="390" />
+              <folding>
+                <element signature="e#18820#18826#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Adult_Learner_Community</find>
+      <find>$x - 1</find>
+      <find>&gt; 15)</find>
+      <find>we rec</find>
+      <find>We recom</find>
+      <find>&lt;div class=&quot;box</find>
+      <find>h3</find>
+      <find>&lt;p&gt;</find>
+      <find>&gt; 15</find>
+      <find>box</find>
+      <find>&lt;div class=&quot;box&quot;&gt;'</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Form.html" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/logic.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="3863" />
+    <option name="height" value="2123" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web App HMML-CSS-PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web App HMML-CSS-PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web App HMML-CSS-PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web App HMML-CSS-PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b27e9f45-f6eb-4372-9a46-da696cc55137" name="Default Changelist" comment="" />
+      <created>1552580546363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552580546363</updated>
+      <workItem from="1552580547518" duration="1622000" />
+      <workItem from="1552608626183" duration="374000" />
+      <workItem from="1553311742037" duration="4281000" />
+      <workItem from="1553357900189" duration="6133000" />
+      <workItem from="1553472828406" duration="4699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17109000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14115308" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Program Files/Git/ReleaseNotes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Backuo/elements.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Backuo/Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4488" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Backuo/logic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="1658" column="14" selection-start-line="1658" selection-start-column="12" selection-end-line="1658" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="105" column="12" selection-start-line="105" selection-start-column="12" selection-end-line="105" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="419" column="138" lean-forward="true" selection-start-line="419" selection-start-column="48" selection-end-line="419" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1201">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
+          <caret line="225" selection-start-line="225" selection-end-line="225" />
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+          <caret line="313" selection-start-line="313" selection-end-line="313" />
+          <caret line="324" selection-start-line="324" selection-end-line="324" />
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
+          <caret line="346" selection-start-line="346" selection-end-line="346" />
+          <caret line="357" selection-start-line="357" selection-end-line="357" />
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+          <caret line="379" selection-start-line="379" selection-end-line="379" />
+          <caret line="390" selection-start-line="390" selection-end-line="390" />
+          <folding>
+            <element signature="e#18820#18826#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,6 +2,7 @@
 
 ![Demo 1](https://i.imgur.com/II9HDVY.jpg)
 
-![Demo 2](https://i.imgur.com/Aisc9Ft.png)
-
-![Demo 3](https://i.imgur.com/lzMtZFQ.png)
+<p float="left">
+  <img src="https://i.imgur.com/Aisc9Ft.png" width="49%" float="left" />
+  <img src="https://i.imgur.com/lzMtZFQ.png" width="49%" float="right" /> 
+</p>
